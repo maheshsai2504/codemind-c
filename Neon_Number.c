@@ -17,5 +17,5 @@ int  main()
     else
      {
         printf("Not Neon Number");
-    }
+     }
 }
